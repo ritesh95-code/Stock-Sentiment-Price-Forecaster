@@ -1,4 +1,4 @@
-# Stock Sentiment & Price Forecaster
+# Stock-Market-Sentiment-Analysis-with-Historical-Stocks-Data-Combined-for-Predicting-Stock-Price-Tool
 # MarketMind: Stock Market Sentiment Analysis & Price Prediction Platform
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
@@ -7,6 +7,25 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 MarketMind is a comprehensive web application that combines stock market sentiment analysis with historical data to predict stock prices for the Indian market. It leverages machine learning models including LSTM for price prediction and a fine-tuned FinBERT model for news sentiment analysis, providing users with data-driven insights for investment decisions.
+
+---
+
+## 🎥 Demo Video
+
+[![MarketMind Demo](static/video/thumb.png)](https://youtu.be/kXl9987fJuk)
+
+_Click the image above to watch the full demo or [view it directly here](https://youtu.be/kXl9987fJuk)._
+
+### Quick Demo Features:
+
+- User authentication and dashboard navigation
+- Real-time market movers tracking
+- Comprehensive fundamental analysis
+- News sentiment analysis with FinBERT
+- Stock price prediction using LSTM
+- Interactive charts and visualizations
+
+---
 
 ## 🚀 Features
 
@@ -200,7 +219,7 @@ const firebaseConfig = {
 python app.py
 ```
 
-Visit [`https://huggingface.co/spaces/stock-market-6/MarketMind`](https://huggingface.co/spaces/stock-market-6/MarketMind)to access the application.
+Visit [`https://huggingface.co/spaces/AronWolverine/MarketMindP`](https://huggingface.co/spaces/AronWolverine/MarketMindP)to access the application.
 
 ---
 
